@@ -1,0 +1,15 @@
+{
+  "name": "fullcalendar",
+  "main": "fullcalendar.js",
+  "homepage": "https://github.com/VahidSh69/fullcalendar",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

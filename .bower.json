@@ -1,0 +1,22 @@
+{
+  "name": "fullcalendar",
+  "main": "fullcalendar.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/VahidSh69/fullcalendar",
+  "version": "3.2.0",
+  "_release": "3.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.2.0",
+    "commit": "9d118f2a07024f1299e63420a0fbc83a54de7c7f"
+  },
+  "_source": "https://github.com/VahidSh69/fullcalendar.git",
+  "_target": "^3.2.0",
+  "_originalSource": "fullcalendar"
+}
